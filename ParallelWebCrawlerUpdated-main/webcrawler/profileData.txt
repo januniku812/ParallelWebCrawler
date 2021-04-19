@@ -1,0 +1,14 @@
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 273ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 13s 975ms
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 360ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 14s 416ms
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 303ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 15s 285ms
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 340ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 16s 458ms
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 349ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 16s 535ms
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 291ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 15s 698ms
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 463ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 17s 1ms
