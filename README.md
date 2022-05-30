@@ -2,7 +2,6 @@
 Udacity project to run multiple webcrawler threads for efficiency and monitered run times in java.
  
 Project: Parallel Web Crawler
-UdaciSearch Logo
 
 Welcome! This is your first week at the startup, UdaciSearch. You've been hired on as an Engineer, and you're really excited to make a big splash. UdaciSearch is interested in figuring out popular search terms on the internet in order to improve the SEO of their clients. Everyone wants to pop up at the top of a potential user's search!
 
